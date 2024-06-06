@@ -13,7 +13,7 @@ kernelspec:
 
 # Non-Floodplain Wetlands
 
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/source-coop-readme/blob/main/giw/README.ipynb)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giswqs/NFW-Project/blob/main/notebooks/giw.ipynb)
 
 ## Introduction
 
